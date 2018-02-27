@@ -11,9 +11,14 @@ Create a page as designed in design/guidePage.jpg.
 Please pay attention to:
 * Writing modular & reusable code
 * Handling gracefully route failures
-* Do not add any other libraries, use what you got...
+* CSS3 and using Flexbox
+* Using correct HTML semantics
 * Commiting with messages as if this was a real project
 * Add files as needed
+The following are considered bonus:
+* Responsive design
+* Animations
+* Any out-of-the-box ideas.
 
 ### Route for fetching the Guide
 GET https://gist.github.com/asafda/487838553bd12070f46acb028e69a4ac
