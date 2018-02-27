@@ -7,7 +7,7 @@ In case the script doesn't automatically open the app in a browser just open [th
 
 ## Task
 Clone this repository, and push it to your Github account. When you're done just send us the link.
-Create a page as designed in design/guidePage.jpg.
+Create a page as designed in design/guidePage.png.
 Please pay attention to:
 * Writing modular & reusable code
 * Handling gracefully route failures
