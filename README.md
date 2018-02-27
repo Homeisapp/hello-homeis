@@ -27,8 +27,8 @@ https://static.wixstatic.com/media/2879e1_a34a3c0bf5ee4c3bb7bea153aad14b69~mv2.p
 ### Colors
 use the vars/_colors.scss file
 ### Route for fetching the Guide
-GET https://gist.github.com/asafda/487838553bd12070f46acb028e69a4ac
+GET https://gist.githubusercontent.com/asafda/487838553bd12070f46acb028e69a4ac/raw/c6de80cde02ca17231ce68992a5311e2b358aa30/getPost.js
 ### Route for fetching a list of Guides
-https://gist.github.com/asafda/cf5d8a9183a296142019bb71bc6872e6
+https://gist.githubusercontent.com/asafda/cf5d8a9183a296142019bb71bc6872e6/raw/bf7a547373de15074c7cb5309ec1d36f477dbb2e/getPosts.js
 
 Good Luck :smiley:
